@@ -20,9 +20,9 @@ pengguna dapat melakukan copy teks dan akan disimpan pada clipboard dengan cara 
 link berikut : https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/ 
 
 <b> Expo packages </b>
-  - expo-application (4.0.2)
   - expo-barcode-scanner (11.2.1)
   - expo-clipboard (2.1.1)
+  - expo-linking: (3.0.0)
   - expo-constants (13.0.2)
   - expo-error-recovery (3.0.5)
   - expo-file-system (13.1.4)
