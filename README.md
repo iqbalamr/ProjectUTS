@@ -38,10 +38,21 @@ link berikut : https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/
         },
 
 <b> Expo package </b>
-  1. expo-barcode-scanner
-  2. expo-linking
-  3. expo-clipboard
-  4. expo/vector-icons
+  - expo-application (4.0.2)
+  - expo-barcode-scanner (11.2.1)
+  - expo-clipboard (2.1.1)
+  - expo-constants (13.0.2)
+  - expo-error-recovery (3.0.5)
+  - expo-file-system (13.1.4)
+  - expo-font (10.0.5)
+  - expo-image-loader (3.1.1)
+  - expo-json-utils (0.2.1)
+  - expo-keep-awake (10.0.2)
+  - expo-manifests (0.2.4)
+  - expo-modules-core (0.6.5)
+  - expo-splash-screen (0.14.2)
+  - expo-structured-headers (2.1.1)
+  - expo-updates (0.11.7)
 
 To download dependencies:
 
