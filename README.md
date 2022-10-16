@@ -37,7 +37,7 @@ link berikut : https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/
           "react-native-web": "0.17.1"
         },
 
-<b> Expo package </b>
+<b> Expo packages </b>
   - expo-application (4.0.2)
   - expo-barcode-scanner (11.2.1)
   - expo-clipboard (2.1.1)
